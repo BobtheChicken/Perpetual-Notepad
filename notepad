@@ -7,3 +7,26 @@ i'm starting a machine learning course on coursera. this is like the third time 
 implemented better graphics, functions such as mathematical loops and effects into unlimited-bullets-festival
 
 got touhou soundtrack: its better with all the bullet noises
+
+april 10
+
+	coursera machine learning notes:
+
+		linear regression: finding the line that fits all the points
+
+		functions at http://puu.sh/h90JM/a14f7baef7.png.
+
+		cost function is the 1/2m thing
+
+		m = number of training examples
+
+		in the loop: i is the current training example
+
+		h.theta(x(i)) is the same as theta.0 + theta.1*x(i).
+		theta.1 is the slope, and x(i) is just the current x.
+
+		The cost function: the average of the hypothesis(base and slope) differnce between the actual numbers.
+		we are trying to make the cost function as low as possible.
+
+
+	ideas for fixing up skyflower: make it more bullet-helly. minibosses that spam bullets everywhere, make the player hitbox smaller, add turrets that spray patterns everywhere, fix up the bosses to have more interesting patterns.
