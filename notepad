@@ -31,4 +31,8 @@ april 10
 
 	ideas for fixing up skyflower: make it more bullet-helly. minibosses that spam bullets everywhere, make the player hitbox smaller, add turrets that spray patterns everywhere, fix up the bosses to have more interesting patterns.
 
-	stanford course: set lexicon map
+	stanford course:
+		set: just a bunch of stuff in some kind of order, no duplicates
+		hashset: no order
+		lexicon
+		map
