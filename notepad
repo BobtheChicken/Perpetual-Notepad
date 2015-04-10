@@ -33,6 +33,7 @@ april 10
 
 	stanford course:
 		set: just a bunch of stuff in some kind of order, no duplicates
-		hashset: no order
+			hashset: no order
+			multiply sets = returns things that are in both sets
 		lexicon
-		map
+		map: pairs with key/value: dictonary -> indexes are keys
