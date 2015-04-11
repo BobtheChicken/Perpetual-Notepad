@@ -96,3 +96,7 @@ april 11:
 
 
 			use it for when there are competing hypothesis: like the matrix x vector, but the multiple columns of the second vector are the different kinds of hypothesis.
+
+		identity matrix: the diagonal starting from 0,0, then 1,1, etc = 1.
+
+			multiplying any matrix by the identity matrix returns the same matrix.
