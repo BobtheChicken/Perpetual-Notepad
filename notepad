@@ -75,3 +75,5 @@ april 11:
 			speciaal R with the two lines = a matrix
 
 		Vector: nx1 matrix.
+
+		adding matrices: they have to be the same dimension. -> just add each corresponding one.
