@@ -93,3 +93,6 @@ april 11:
 
 		matrix matrix multiplication: matrix vector multiplication for each column in the second matrix, and the results are put together in a new matrix.
 			m by n X n by o -> m by o result.
+
+
+			use it for when there are competing hypothesis: like the matrix x vector, but the multiple columns of the second vector are the different kinds of hypothesis.
