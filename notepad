@@ -37,3 +37,9 @@ april 10
 			multiply sets = returns things that are in both sets
 		lexicon
 		map: pairs with key/value: dictonary -> indexes are keys, can use brackets
+
+
+
+	more coursera ml notes:
+
+		gradient descent: keep moving in small steps until you reach the optimum
