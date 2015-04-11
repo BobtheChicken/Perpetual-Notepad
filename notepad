@@ -79,3 +79,17 @@ april 11:
 		adding matrices: they have to be the same dimension. -> just add each corresponding one.
 
 		scalar multiplication: multiply a matrix by a number. -> multiply each element by that number.
+
+		matrix vector multiplication: take the first row and multiply it by the vector, then add that up. that is the corresponding element in the result.
+			http://puu.sh/h9Yui/fc86586870.png
+
+			columns in first matrix matches the rows in second matrix.
+
+		using it for the hypothesis:
+			prediction = DataMatrix x parameters
+
+			[1 2100] x [ -40 0.25]   -> the -40 is theta.0, the 0.25 is theta.1
+			[1 1416]
+
+		matrix matrix multiplication: matrix vector multiplication for each column in the second matrix, and the results are put together in a new matrix.
+			m by n X n by o -> m by o result.
