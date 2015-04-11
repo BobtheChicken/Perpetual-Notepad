@@ -51,3 +51,5 @@ april 10
 				FOR THE 3D: we take derivates of both theta.0 and theta.1 in the simultaneous update.
 
 			remember how sometimes this can screw up if there are two local optima? well with our cost function theres only one, so its fine.
+
+	whooo i got 5/5 on the quiz, maybe i'll actually pass the course this time :P
