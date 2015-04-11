@@ -62,5 +62,5 @@ april 11:
 
 	coursera ml notes:
 
-		matrices: like a 2d array of numbers. written as rows x column.
+		matrices: like a 2d array of numbers. written as column x row.
 			speciaal R with the two lines = a matrix
