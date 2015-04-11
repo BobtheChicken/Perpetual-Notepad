@@ -103,3 +103,6 @@ april 11:
 
 		matrix inverse: if A is m by m matrix, and it has an inverse:
 			A x A.-1 = A.-1 x A = A.
+			no invrese = singular or degenarate.
+
+		matrix transpose: rows are columns, columns are rows.
