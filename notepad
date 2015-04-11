@@ -77,3 +77,5 @@ april 11:
 		Vector: nx1 matrix.
 
 		adding matrices: they have to be the same dimension. -> just add each corresponding one.
+
+		scalar multiplication: multiply a matrix by a number. -> multiply each element by that number.
