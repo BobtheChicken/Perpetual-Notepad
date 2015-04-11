@@ -47,3 +47,7 @@ april 10
 			alpha: how big the step is
 			simultanieous update: find theta.0 and theta.1 with the same function, then update both for the next step.
 			when its setting theta.j: it means it sets theta.0 and theta.1, because it loops as j.
+			derivatives: at a certain point, the slope of the curve.
+				FOR THE 3D: we take derivates of both theta.0 and theta.1 in the simultaneous update.
+
+			remember how sometimes this can screw up if there are two local optima? well with our cost function theres only one, so its fine.
