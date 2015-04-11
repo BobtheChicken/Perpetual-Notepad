@@ -43,3 +43,5 @@ april 10
 	more coursera ml notes:
 
 		gradient descent: keep moving in small steps until you reach the optimum
+
+			alpha: how big the step is
