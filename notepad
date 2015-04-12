@@ -147,3 +147,6 @@ april 12
 		feature scaling: try to get all features to same scale of -1 to 1 by subtracting average and dividing by range.
 
 
+	unlimited-bullets-factory: fixed some bug where loops would fail.
+
+
