@@ -149,4 +149,6 @@ april 12
 
 	unlimited-bullets-factory: fixed some bug where loops would fail.
 
+	pixel-rpg: enemies fire.
+
 
