@@ -127,3 +127,15 @@ april 11:
 		note: 4,500 unsynced changes! wow.
 
 
+
+april 12
+
+	coursera ml notes
+
+		n = number of features
+
+		x(i) = features of i'th training example
+
+		x.j(i) = feature j in i'th training example
+
+
