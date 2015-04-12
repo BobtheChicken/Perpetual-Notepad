@@ -114,4 +114,6 @@ april 11:
 
 	finished problem "transform" on USCAO
 
+	unlimited bullets factory: added in the "c" prefix for the "make" command on rotations: it carrys over the parent bullet's rotation;
+
 
