@@ -144,4 +144,6 @@ april 12
 
 		multiple feature gradient descent is also the same, just with many features. make sure to simul update.
 
+		feature scaling: try to get all features to same scale of -1 to 1 by subtracting average and dividing by range.
+
 
