@@ -138,4 +138,10 @@ april 12
 
 		x.j(i) = feature j in i'th training example
 
+		multiple features hypothesis: h.theta = theta.0 + theta.1*x.1 .... + theta.n * x.n
+
+			each x.n value is the influence that each feature has on the price.
+
+		multiple feature gradient descent is also the same, just with many features. make sure to simul update.
+
 
