@@ -153,4 +153,12 @@ april 12
 
 	USCAO: solved namenums.
 
+april 13
+
+	coursera continuted:
+
+		if the alpha is too small, it goes really slow. if it's high, it screws up everything.
+
+		test alpha: 0.001, 0.003, 0.01, ~x3 each time.
+
 
