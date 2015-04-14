@@ -188,3 +188,5 @@ april 14
 
 		normal equation: no choose alpha, no iteration, no feature scaling.
 
+		gradient descent works better when there are a lot of features.
+
