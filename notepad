@@ -190,3 +190,5 @@ april 14
 
 		gradient descent works better when there are a lot of features.
 
+		normal equation needs to compute X'X, so lots of features means its slow.
+
