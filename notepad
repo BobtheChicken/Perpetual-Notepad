@@ -161,4 +161,10 @@ april 13
 
 		test alpha: 0.001, 0.003, 0.01, ~x3 each time.
 
+		polynomial regression:
+
+			use a feature, as the square of something.
+
+			> make sure to feature scale correctly!
+
 
