@@ -91,6 +91,8 @@ april 11:
 			[1 2100] x [ -40 0.25]   -> the -40 is theta.0, the 0.25 is theta.1
 			[1 1416]
 
+
+
 		matrix matrix multiplication: matrix vector multiplication for each column in the second matrix, and the results are put together in a new matrix.
 			m by n X n by o -> m by o result.
 
@@ -196,5 +198,14 @@ april 14
 
 
 
-	programming challenge for coursera machine learning! we doing this Matlab style.
+	programming challenge for coursera machine learning! we doing this Matlab style.3
+
+
+	x:[data data data]
+	y:[result result result]
+
+	theta[1,multiplier]
+
+	okay so i solved up to the gradient descent and had problems with linear algebra so i had to look up help. shameful
+
 
