@@ -272,3 +272,10 @@ april 21
 		the result is always between 0 and 1.
 
 		0 is one option, 1 is the other. usually 0.5 is cutoff point for choosing.
+
+		sigmoid function / logistic function: it asymptotes (closes but doesnt reach) 0 and 1.
+
+			h.teta(x) = g(theta.transpose.x)
+			g(z) = 1/(1+e^-z)
+
+			http://puu.sh/hmsf3/ec656989be.png
