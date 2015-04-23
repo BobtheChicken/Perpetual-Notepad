@@ -292,3 +292,23 @@ april 22
 	reuploading skyflower gameplay to dropbox this time.
 
 	wwdc: imported the Spring animation library to make things look prettier.
+
+
+	LIST OF THINGS TO POLISH FOR SKYFLOWER
+	hero selection
+	holding [shift] shows hitboxes
+	animations for getting items and powerups
+	pause menu: adjust volume, shows items you havex
+	fix Blessing bug
+	change animation for giant laser
+	fix Pentagram boss lightning bustling
+	fix animations for players on suit guy but also everyone else
+	AN EPIC BOSS ANIMATION SEQUENCE WHEN IT SPAWNS WHEN YOU GET IN RANGE.
+	update item description
+	high scores //do this with steam api
+	fix pentagram's arms not going off
+
+	TUTORIAL!!!
+
+	MULTIPLAYER bugfix!!
+
