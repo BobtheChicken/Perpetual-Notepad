@@ -312,3 +312,26 @@ april 22
 
 	MULTIPLAYER bugfix!!
 
+
+	skyflower:
+
+		added sound effects and updated item descriptions
+
+		fixed movescript polling every update.
+
+april 23:
+
+	did usaco problem: dualpal.
+
+
+		coursera ML notes:
+
+			logistic regression cant use the same cost funcion as linear regression because it would be non-convec.
+
+			the new cost function:
+
+				cost(h.theta.x,y) =
+					if y is 1: -log(h.theta.x)
+					if y is 0: -log(1 - h.theta.x)
+
+				http://puu.sh/hoA6L/6bbab3d151.png
