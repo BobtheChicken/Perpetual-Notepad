@@ -336,3 +336,9 @@ april 23:
 
 			http://puu.sh/hoA6L/6bbab3d151.png
 			http://puu.sh/hoAfz/55a2f1dc16.png
+
+	skyflower:
+
+		fixed blessing bug: now it deletes all powerups.
+
+		fixed pentagram boss.
