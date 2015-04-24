@@ -324,15 +324,15 @@ april 23:
 	did usaco problem: dualpal.
 
 
-		coursera ML notes:
+	coursera ML notes:
 
-			logistic regression cant use the same cost funcion as linear regression because it would be non-convec.
+		logistic regression cant use the same cost funcion as linear regression because it would be non-convec.
 
-			the new cost function:
+		the new cost function:
 
-				cost(h.theta.x,y) =
-					if y is 1: -log(h.theta.x)
-					if y is 0: -log(1 - h.theta.x)
+			cost(h.theta.x,y) =
+				if y is 1: -log(h.theta.x)
+				if y is 0: -log(1 - h.theta.x)
 
-				http://puu.sh/hoA6L/6bbab3d151.png
-				http://puu.sh/hoAfz/55a2f1dc16.png
+			http://puu.sh/hoA6L/6bbab3d151.png
+			http://puu.sh/hoAfz/55a2f1dc16.png
