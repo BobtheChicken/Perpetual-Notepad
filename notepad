@@ -299,14 +299,14 @@ april 22
 	holding [shift] shows hitboxes
 	animations for getting items and powerups
 	pause menu: adjust volume, shows items you havex
-	fix Blessing bug
+	fix Blessing bug...
 	change animation for giant laser
 	fix Pentagram boss lightning bustling
-	fix animations for players on suit guy but also everyone else
+	//fix animations for players on suit guy but also everyone else
 	AN EPIC BOSS ANIMATION SEQUENCE WHEN IT SPAWNS WHEN YOU GET IN RANGE.
 	update item description
 	high scores //do this with steam api
-	fix pentagram's arms not going off
+	//fix pentagram's arms not going off
 
 	TUTORIAL!!!
 
@@ -347,6 +347,10 @@ april 23:
 april 24:
 
 	submitted wwdc app. glhf!
+
+april 25:
+
+	cleaned up githib repos.
 
 
 april 26:
