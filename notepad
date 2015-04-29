@@ -418,3 +418,5 @@ april 29:
 			null pointer: points to 0.
 
 			arrow operator: -> same as using a dot for calling a function but you use it on a pointer instead of an object.
+
+			initialize a pointer with object initializer: it doesn't remove at the end of scope.
