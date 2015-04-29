@@ -420,3 +420,5 @@ april 29:
 			arrow operator: -> same as using a dot for calling a function but you use it on a pointer instead of an object.
 
 			initialize a pointer with object initializer: it doesn't remove at the end of scope.
+
+		struct: its like a class, but its just variables w/o functions.
