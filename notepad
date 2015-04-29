@@ -404,3 +404,5 @@ april 29:
 			used to free up memorys
 
 		if you use the "new" keyword, then you have to delete it yourself
+
+		linked data structures: each node holds data and a reference to the next one.
