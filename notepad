@@ -397,4 +397,4 @@ april 29:
 
 	stanford data abstractions:
 
-
+		destructor: called when an object is destroyed
