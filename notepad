@@ -421,4 +421,7 @@ april 29:
 
 			initialize a pointer with object initializer: it doesn't remove at the end of scope.
 
-		struct: its like a class, but its just variables w/o functions.
+		struct: its like a class, but its just variable w/o functions.
+
+
+		[WT!] biky pointers: funny video on points claymation
