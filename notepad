@@ -400,3 +400,5 @@ april 29:
 		destructor: called when an object is destroyed
 
 			syntax: ~Classname()
+
+			used to free up memorys
