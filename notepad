@@ -402,3 +402,5 @@ april 29:
 			syntax: ~Classname()
 
 			used to free up memorys
+
+		if you use the "new" keyword, then you have to delete it yourself
