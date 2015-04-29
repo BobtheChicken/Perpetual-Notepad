@@ -409,6 +409,10 @@ april 29:
 
 		pointers: memory adress of a variable.
 
-			access with &variable.
+			access address with &variable.
 
 			hex numbes,  most occupy 4 bytes of memory.
+
+			pointer with *variable.
+
+			null pointer: points to 0.
