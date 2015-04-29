@@ -406,3 +406,9 @@ april 29:
 		if you use the "new" keyword, then you have to delete it yourself
 
 		linked data structures: each node holds data and a reference to the next one.
+
+		pointers: memory adress of a variable.
+
+			access with &variable.
+
+			hex numbes,  most occupy 4 bytes of memory.
