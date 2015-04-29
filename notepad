@@ -416,3 +416,5 @@ april 29:
 			pointer with *variable.
 
 			null pointer: points to 0.
+
+			arrow operator: -> same as using a dot for calling a function but you use it on a pointer instead of an object.
