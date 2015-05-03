@@ -445,4 +445,13 @@ may 2:
 
 	coursera ML notes:
 
+		we have a way to compute the cost function, as well as the derivative.
+
+		with that, we can use algoritms other than gradient descent such as conjugate descent, BGFS, or L-BFGS
+
+			- these makes it not need to calculate alpha, and is faster:
+			- however its more complicated
+
+
+
 
