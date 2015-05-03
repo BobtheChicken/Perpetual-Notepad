@@ -452,6 +452,14 @@ may 2:
 			- these makes it not need to calculate alpha, and is faster:
 			- however its more complicated
 
+		often there are libraries that implement these algoritms
 
+		logistic regression w/ multiclasses:
 
+			ex: categorizing into one of many categories.
 
+			one vs. all algoritm: assign each class as the positive class, and all the rest as negative.
+			it can then find the propability that the result is 1,2,3, etc.
+			whichever one has the highest propability, its the category that it belongs in.
+
+		rip, 0/5 on the quiz. gotta redo this.
