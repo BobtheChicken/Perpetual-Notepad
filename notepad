@@ -564,3 +564,59 @@ may 5:
 				dance of the demon's paradise: after dashing, does fatal dmg to passed through
 				storm of eternal night: slows time, and walk really fast
 
+
+
+
+
+may 6
+
+	stanford algo:
+
+		bogo sort:
+			random, repeat
+			runtime: n!
+
+		selection:
+			move the smallest the front, move the second smallest to second front,repeat
+			runtime: n^2
+
+		insertion:
+			keep adding the smallest element to a a section in the beginning of arrray, sliding from big end until it reaches something smallet
+			runtime n^2
+
+		merge sort:
+			split the data in half, sort halves, and put together
+			when merging the halves, you know they are sorted so it takes less time. you like you start at lowest on both, and take one and put it, and so on.
+			runtime n log n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
