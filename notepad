@@ -519,3 +519,48 @@ may 4
 	created repo for towers-legacy.
 
 	gonna use pixel-rpg as a base.
+
+	take a break from towers-legacy: gotta finish skyflower!
+
+	checklist from dan:
+
+		barrel explosions are slower
+		gain attack speed when shifting
+		barrels damage players? no
+		fix menus
+		music variation
+		music stops when player dies
+
+	idea: get rid of powerups. instead, make skills that each character can use. rotate them on a 3-turn basis.
+
+may 5:
+
+	make the healthbar programmatically in skyflower: this allows for more customization.
+
+	farmer:
+		aegis: blocks hits for 1/2 a second
+			tradition's strike: smashes bullets and enemies in melee
+				absolute history: knockbacks enemies really far
+				dream-shattering obedience: chargeup, then smashes ground in front and stuns
+			legacy of the lotus: fires a counterattack when bullet blocked
+				eastern turtle formation: blocks for 5 seconds, but greatly slowed
+				magnificent lotus flower: giant counterattack
+
+	mage:
+		forbidden scroll: mid-range attack in the front.
+			devil's tale: attack splits into two after reaching end, and attacks again
+				heaven's stolen genesis: tactical air strike lol
+				eternal perfect flower: spiral of attacks
+			unconditional world chains: binds an enemy hit
+				moonlight endless feast: enemy in front is consumed, heals
+				shining platinum horizon: idk
+
+	suit:
+		dash: dashes
+			silver streaks: dashes while firing some shots to the side
+				death-stained gate wings: fires a ton of shots while dashing
+				millenial hacked engines: fires homing rockets while dashing
+			shadow-aided pursuit: dashes while being invincible for a bit
+				dance of the demon's paradise: after dashing, does fatal dmg to passed through
+				storm of eternal night: slows time, and walk really fast
+
