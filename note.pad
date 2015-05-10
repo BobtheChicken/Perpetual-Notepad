@@ -615,6 +615,10 @@ may 10
 		underfitting: for example, using a linear line when a quadratic fuction is better
 		overfitting: too many features, so it fits the cost function, but fails to generalize (apply to new examples)
 
+		how to eliminate overfitting:
+			select features to keep/remove
+			keep all features but reduce the magnitude of how each affects it
+
 
 
 
