@@ -619,6 +619,11 @@ may 10
 			select features to keep/remove
 			keep all features but reduce the magnitude of how each affects it
 
+			modified cost function has lambda times the sum of theta.j.2, or the shrinking part.
+
+			in the cost function: add + lambda/m at the end.
+
+			i think its because removing that little bit will scale more with polynomials than the regular ones.
 
 
 
