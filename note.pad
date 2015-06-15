@@ -698,12 +698,57 @@ may 31
 
 	time to design the spell cards for Skyflower
 
+june 1
+
+	beat touhou on normal with marisa. got nothing else done.
+
 
 june 2
 
 	coursera stuff
 
 		so it computes the error for each output node into a vector, and tries to minimize that.
+
+	gotta download stuff to prepare for no internet time.
+
+	plan:
+
+		work on skyflower a little
+
+
+june 8
+
+	im at indonesia for vacation
+
+	skyflower changes:
+
+		spell selection system.
+
+June 11
+
+	the trailer for skyfower is ready! i really need to finish it.
+
+	TO-DO:
+
+		spells for mage class
+		menu
+		tutorial (do it binding of isaac-style: with it written on the ground)
+		multiplayer bug-fixes can be postponed till later.
+
+		-switch multiplayer to a code-system where the host gives code to friends.
+
+June 13
+
+	sent clarification email to shoto. im so excited.
+
+June 15
+
+	shoto replied, just wait m8.
+
+	i made a flappy bird bot with a simple neural network that brute forces via randomness instead of derivates. it worked but it takes a long time to learn.
+
+	this is really hlepful: http://karpathy.github.io/neuralnets/
+
 
 
 
