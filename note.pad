@@ -749,6 +749,32 @@ June 15
 
 	this is really hlepful: http://karpathy.github.io/neuralnets/
 
+	noteS:
+
+			for a multiplication gate for example: the derivative is what happens if you change one of the inputs in a direction, and see what happens to the output.
+
+			structuring the stuff in programming:
+
+				you can have a class that holds all the values, and have a forward and backward function:
+
+					var multiplyGate = function(){ };
+					multiplyGate.prototype = {
+					  forward: function(u0, u1) {
+					    // store pointers to input Units u0 and u1 and output unit utop
+					    this.u0 = u0;
+					    this.u1 = u1;
+					    this.utop = new Unit(u0.value * u1.value, 0.0);
+					    return this.utop;
+					  },
+					  backward: function() {
+					    // take the gradient in output unit and chain it with the
+					    // local gradients, which we derived for multiply gate before
+					    // then write those gradients to those Units.
+					    this.u0.grad += this.u1.value * this.utop.grad;
+					    this.u1.grad += this.u0.value * this.utop.grad;
+					  }
+					}
+
 
 
 
