@@ -807,7 +807,7 @@ june 21
 		- finish spell icons for skyflower
 		- plan route to shoto
 
-june 21
+june 22
 
 	first day internship hype
 
@@ -820,3 +820,296 @@ june 21
 		gg ez
 
 	the ppl are late hopefully they come
+
+june 23
+
+	pennapps
+
+	I'm a high schooler interested in artificial intelligence and game development. I attended one PennApps in the past (2015 winter). I've got a bunch of projects up at www.kevinfrans.com, mostly apps and games.
+
+	I have a game on Steam at http://steamcommunity.com/sharedfiles/filedetails/?id=375669978. It's called Skyflower, and it is a procedurally-generated action shooter. Players fight to reach the end of dungeons swarming with monsters, items, spells, and traps!
+
+	I love hackathons, and I have attended a bunch. I won top prize at MakeHacks, most technical hack at CodeDay, Venmo API prize at HSHacks, tickets at TechCrunch Disrupt SF, and most creative at GunnHacks.
+
+	In the past, I attended MakeSchool, a college alternative that teaches iOS. Currently, I am interning at Shoto, a software startup in San Francisco.
+
+june 25
+
+	setting up the love2d project, time to write a bullet hell engine
+
+	WHEN I GET HOME:
+
+		upload the steam mac build on the windows machine
+
+june 26
+
+
+	started the bullet hell online client thing via enchantjs
+
+june 27
+
+	nothing its saturday but coousins are here rip room
+
+june 28
+
+	nope
+
+june 29
+
+	worked on stories @ shoto
+
+june 30
+
+	more shoto, YC founder dinner tonight
+
+	gotta g
+
+july 6
+
+	neural networks stuff for NEAT:
+
+		NEAT connections don't only go forward, they can also loop around and stuff. so there are two ways to calculate output:
+
+		FOR REAL-TIME STUFF: every game tick, take in input and then
+
+july 7
+
+	rip i need long underwear, zip-the end pants
+
+
+july 8
+
+	midblown gautam po
+
+	clones a repo
+	insert code into it
+	put it on their repo
+	steam
+
+july 12
+
+	structure for XOR neural net
+
+	2 inputs
+	one hidden layer w/ 3
+	1 output
+
+july 12
+
+	i succesfully trained the neural network to recognize Flat UI colors!!! hype
+
+	there was a crash on the caltrain, delayed by an hour rip.
+
+july 15
+
+	tahm kench bug abuse to troll normal games, so fun
+
+	tried to train neural net to recognise handwritten digits. failed.
+
+july 16
+
+
+july 18
+
+	forgot to give any sort of developer presence on the skyflower steam discussion. oooops
+
+	emission rate for Impreishable Descient: 60
+
+	fixed: aegis length, crash on 4th level
+
+	time for SPELL UII
+
+july 19
+
+	im hecka sore from the mountain hike yesterday even though i had the lightest pack
+
+	fixed spell UI
+
+	started coursera course on Data Science
+
+july 24
+
+	mhacks wants # of hackathons
+
+	hshacks
+	hshacks 2
+	pennapps
+	gunnhacks
+	local hack day
+	la hacks
+	make hacks
+	spritebuilder
+	hack gen y
+	yc hacks
+	tc disrupt
+
+august 11
+
+	IM BACK FROM TWO WEEKS NORTHERN TIER NO TECHNOLOGY
+
+	its good to be back bby
+
+	one week of internship left before school starts
+
+	pancake drawing /r/animu???!?!?!?!
+
+	gotta finish skyflower update soon
+
+	otherwise nothing out of the normal
+
+august 12
+
+	no one at work, so i finished up and got to leave early yay
+
+	i need to get my money and a letter of recomendation
+
+	> started work on he rode at night, looks nice with bloom filter and the other one that starts with a v
+
+	epic E period o.connel class whooo
+
+august 14
+
+	wtf where did aug 13 go? ohh right its 1 am
+
+	i did some work on he rode at night. last day of internship!!!!
+
+august 14 for real
+
+	To Whom it May Concern:
+
+	I can highly reccommend Kevin Frans for employment. For the summer of 2015, Kevin was an iOS developer for Shoto. His tasks included working on the main iOS client, written in Objective-C. During his time at Shoto, Kevin succesfully rebuilt the main sharing and requesting flow, modifying existing code and building sections entirely from scratch. He was also responsible for new designs in the location and photo selectors, deeplinks from text messages, filters, and integration of iOS 9 features such as MapKit and content indexing.
+
+	Kevin was a pleasure to work with, accepting all tasks assigned and completing them with enthusiasm. No matter the difficulty, he was able to learn the codebase and deliver his work.
+
+	I hope you will consider Kevin Frans for potential oppurtunities. Kevin is a talented and hard worker, and he has my highest reccomendation.
+
+	Sincerely,
+
+
+august 15/16
+
+	hack the planet random cameo???
+
+	didnt sign up for it, but i went anyways. the event was organized really well.
+
+	built a neural network that played the game Helicopter. ill put it on github soon.
+
+	ppl really liked it but no prize.
+
+	also worked on a bunch of levels for he rode at night.
+
+	school tommorow!
+
+august 17
+
+	school was fun, engles/social studies not many friends but math and pe are good
+
+	read the translated parts of New Game manga and drew the main
+
+	budgeted sleep but forgot to use it so rip
+
+	ez teeto carry games
+
+	USACO plan, bring the problems to school
+
+august 23
+
+	GUNN ENGINEERING CLUB HYPE!!!!
+
+		got the plan, just gotta get it charterected with advisor
+
+	school ez
+
+	mathxl sucks
+
+	Mastercard hackathon: built a twitch thing
+
+august 24
+
+	TURN THE GUNN CHROMEBOOK INTO A LINUX SERVER
+
+	First we need to turn the chromebook into developer mode.
+
+	The usual way won't work because of enterprise regristration.
+
+	Here's how to do it:
+
+	First, create a chrome os restore USB using the recovery tool from chrome app store.
+
+	Next, screw off the bottom of the chromebook and remove the battery for 10 minutes or so. This will reset something (not sure what it is lol), allowing the device to reset into developer mode.
+
+	Put the laptop back together, press esc+refresh+power to enter restore mode.
+
+	Plug in restore USB.
+
+	Let it restore.
+
+	Once it boots up, you might get locked out of the computer cause you don't have a pausd.org email. RIP chromebook.
+
+	BUT: we can enable developer mode, which comes with an SSH daemon!
+
+	enter restore mode again with esc+refresh+power.
+
+	press CTRL+D.
+
+	press enter and turn off OS Verification.
+
+	reboot
+
+	on the login page, click Enable Debug tools.
+
+	set password for root.
+
+	now go to a different computer and ssh into the chromebook.
+
+	install a crouton build: http://lifehacker.com/how-to-install-linux-on-a-chromebook-and-unlock-its-ful-509039343.
+
+	launch crouton from ssh and it will pop up.
+
+	you've got linux!
+
+	next, apt-get install a package called xrdp.
+
+	this is for remote desktop.
+
+	install ngrok as well. (you need to sign up for an account)
+
+	share port 3389. (RDP port). use tcp.
+
+	install microsoft remote desktop on your main comp.
+
+	for the ip use the ngrok ip.
+
+	congrats you are in!
+
+	now for perpetual linux: you need to keep the shell open that is running the crouton or linux will close.
+
+	on the ssh: use curl to download screen.
+
+	unzip screen with tar command.
+
+	RUN:
+
+	sh configure
+
+	make
+
+	make install
+
+	Now screen is installed.
+
+	run screen by just typing screen
+
+	run sudo startkde.
+
+	now you can close the window and linux wont close.
+
+	reopen the ngrok/xrdp.
+
+	plug in the chromebook and now you have a linux comp that u can control remotely over ssh and RDP.
+
+august 25
+
+	clean up github
+
+	first commits in over 20 years?? its happening
