@@ -1145,3 +1145,56 @@ sept 1
 	rust is halo go is wii sports LOL WTF
 
 	what was i even doing idk
+
+sept 12
+
+	ctrl-f for youtube
+
+sept 21
+
+	Gunn engineering club day was a huuuuuge success! over 80 signups.
+	now just gotta organize the actual meetings
+
+	i did some work on making te logo.
+
+	did usaco.
+
+	LEAGUESHARP WORKING! after all the bootcamp problems.
+
+	gonna make the automatic league song picker based on gameplay.
+
+	-> if at least 6 people are gathered in a large radius, play HYPE SONG
+
+	-> laning phase: just you and another guy, but there has been no combat: play CASUAL SONG
+
+	-> duel: when there is all in combat: play SOLO DUEL SONG
+
+	-> when everyone is grouped but before fight: play PLAN SONG
+
+	-> dead: and no team members in radius: play SAD SONG
+
+	-> you win fight: play VICTORY SONG
+
+sept 22
+
+	got into camera at camera.pausd.org: made video streaming @ kevinfrans.com/camera.html
+
+	flexbot: send them an email asking for free stuff
+
+	The next game:
+
+		use pixel art style similar to Rivals of Aether
+
+		its a platformer bullet hell 1v1. you cast bullet patterns against another opponent.
+
+		hit on stamina? or a percent based system like smash?
+
+		have a fast attack button and a long attack button, with each direction a special move depending on character.
+
+sept 24
+
+	no one showed up for engineering club cause there was no meeting today!!! lol
+
+	did a bunch of work on the platformer 1v1 game. danmaku
+
+	https://github.com/kevinfrans3/danmaku
